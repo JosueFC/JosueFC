@@ -1,9 +1,16 @@
 # Josue Fernandez Canela
 
-Data analyst and analytics engineer. I build the pipeline, test the data, then answer the business question on top of it.
+**Data Analyst · Analytics Engineer · Python & SQL**
 
-**Stack:** Python (pandas, scikit-learn) · SQL (BigQuery, DuckDB) · dbt · R (tidyverse, ggplot2) · Power BI · Tableau · Streamlit · pytest · GitHub Actions
+Ph.D. in Plant Biology from the University of Geogia, and M. Sc. in Analytics candidate at Texas A&M University. I bring a researcher's habits to business data: validate the data first, measure uncertainty honestly, and only claim what the evidence supports. I build the whole workflow, from ingestion and testing to models, dashboards and the business question at the end.
 
+## Tech stack
+- **Analysis:** Python (pandas, scikit-learn), SQL, R (tidyverse, ggplot2)
+- **Data engineering:** dbt, DuckDB, BigQuery, PostgreSQL
+- **BI & apps:** Power BI, Tableau, Streamlit
+- **Engineering:** pytest, Git, GitHub Actions, FastAPI
+
+## Featured projects
 ## Selected projects
 
 **[Supplier trade-intelligence pipeline](https://github.com/JosueFC/trade-intelligence-pipeline)**
